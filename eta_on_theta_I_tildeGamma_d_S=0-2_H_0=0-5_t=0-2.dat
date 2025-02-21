@@ -1,0 +1,6 @@
+# eta dependence on theta_I and tildeGamma for fixed d_S, t, H0 
+# d_S = 0.2, t = 0.2, H0 = 0.5 
+# theta_I tildeGamma eta0.0001 0.0 0.00025225536428645544 
+0.0001 0.5 5.286929797365396e-07 
+0.1 0.0 0.32335779573483003 
+0.1 0.5 0.0006021150837402932 
